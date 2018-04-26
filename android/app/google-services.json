@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "983355150669",
+    "firebase_url": "https://imagenes-sergio.firebaseio.com",
+    "project_id": "imagenes-sergio",
+    "storage_bucket": "imagenes-sergio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983355150669:android:be50522de67d8982",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983355150669-0mm88jhjcapg66u9tvjv83dfkf34mo5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqm-uqLd6vig1Ra6SCFToo6KDwuUU9uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
